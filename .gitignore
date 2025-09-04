@@ -1,0 +1,8 @@
+
+build/
+
+
+
+Makefile
+output.txt
+.qmake.stash
