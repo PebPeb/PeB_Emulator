@@ -28,7 +28,7 @@ int main(int argc, char **argv)
 
   QApplication app (argc, argv);
   PeB_UI window;
-  window.loadSvgToTop("/home/pigeonlord9000/Documents/Code/C++/PeB_Emulator/Test_Drawing.svg");
+  window.loadSvgToTop("/home/pigeonlord/Documents/Code/C++/PeB_Emulator/Test_Drawing.svg");
 
   window.show();
   return app.exec();
