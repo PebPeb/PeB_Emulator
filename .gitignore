@@ -6,3 +6,6 @@ build/
 Makefile
 output.txt
 .qmake.stash
+
+*.o
+.qm/
